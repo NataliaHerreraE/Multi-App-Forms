@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CalculatorOperations>
+  <Operation>3 + 6 = 9</Operation>
+  <Operation>8 - 2 = 6</Operation>
+  <Operation>3 + 5 = 8</Operation>
+  <Operation>0.5 + 2 = 2.5</Operation>
+  <Operation>5 + 8 = 13</Operation>
+  <Operation>8 - 3 = 5</Operation>
+  <Operation>6 * 3 = 18</Operation>
+  <Operation>10 / 2 = 5</Operation>
+  <Operation>3 + 15 = 18</Operation>
+  <Operation>25 - 5 = 20</Operation>
+  <Operation>15 * 3 = 45</Operation>
+  <Operation>95 - 15 = 80</Operation>
+  <Operation>56 - 6 = 50</Operation>
+  <Operation>8 * 5 = 40</Operation>
+  <Operation>65 + 15 = 80</Operation>
+  <Operation>80 - 30 = 50</Operation>
+  <Operation>2.5 + 14.2 = 16.7</Operation>
+  <Operation>63.2 - 55.9 = 7.3</Operation>
+  <Operation>83 * 6 = 498</Operation>
+  <Operation>542 / 9 = 60.222222222222222222222222222</Operation>
+  <Operation>50 / 5 = 10</Operation>
+  <Operation>65 * 6 = 390</Operation>
+  <Operation>42 + 6 = 48</Operation>
+  <Operation>15 + 36 = 51</Operation>
+  <Operation>68 - 42 = 26</Operation>
+  <Operation>52 * 6 = 312</Operation>
+  <Operation>95 / 6 = 15.833333333333333333333333333</Operation>
+  <Operation>15 / 3 = 5</Operation>
+  <Operation>1.2 + 5.5 = 6.7</Operation>
+</CalculatorOperations>

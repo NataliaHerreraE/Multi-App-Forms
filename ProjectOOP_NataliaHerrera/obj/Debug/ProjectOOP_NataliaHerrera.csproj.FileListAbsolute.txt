@@ -1,0 +1,17 @@
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\PROJECT\ProjectOOP_NataliaHerrera\ProjectOOP_NataliaHerrera\bin\Debug\ProjectOOP_NataliaHerrera.exe.config
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\PROJECT\ProjectOOP_NataliaHerrera\ProjectOOP_NataliaHerrera\bin\Debug\ProjectOOP_NataliaHerrera.exe
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\PROJECT\ProjectOOP_NataliaHerrera\ProjectOOP_NataliaHerrera\bin\Debug\ProjectOOP_NataliaHerrera.pdb
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\PROJECT\ProjectOOP_NataliaHerrera\ProjectOOP_NataliaHerrera\obj\Debug\ProjectOOP_NataliaHerrera.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\PROJECT\ProjectOOP_NataliaHerrera\ProjectOOP_NataliaHerrera\obj\Debug\ProjectOOP_NataliaHerrera.csproj.SuggestedBindingRedirects.cache
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\PROJECT\ProjectOOP_NataliaHerrera\ProjectOOP_NataliaHerrera\obj\Debug\ProjectOOP_NataliaHerrera.Lotto649.resources
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\PROJECT\ProjectOOP_NataliaHerrera\ProjectOOP_NataliaHerrera\obj\Debug\ProjectOOP_NataliaHerrera.LottoMax.resources
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\PROJECT\ProjectOOP_NataliaHerrera\ProjectOOP_NataliaHerrera\obj\Debug\ProjectOOP_NataliaHerrera.Properties.Resources.resources
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\PROJECT\ProjectOOP_NataliaHerrera\ProjectOOP_NataliaHerrera\obj\Debug\ProjectOOP_NataliaHerrera.csproj.GenerateResource.cache
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\PROJECT\ProjectOOP_NataliaHerrera\ProjectOOP_NataliaHerrera\obj\Debug\ProjectOOP_NataliaHerrera.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\PROJECT\ProjectOOP_NataliaHerrera\ProjectOOP_NataliaHerrera\obj\Debug\ProjectOOP_NataliaHerrera.exe
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\PROJECT\ProjectOOP_NataliaHerrera\ProjectOOP_NataliaHerrera\obj\Debug\ProjectOOP_NataliaHerrera.pdb
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\PROJECT\ProjectOOP_NataliaHerrera\ProjectOOP_NataliaHerrera\obj\Debug\ProjectOOP_NataliaHerrera.frm23Dashboard.resources
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\PROJECT\ProjectOOP_NataliaHerrera\ProjectOOP_NataliaHerrera\obj\Debug\ProjectOOP_NataliaHerrera.MoneyExchange.resources
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\PROJECT\ProjectOOP_NataliaHerrera\ProjectOOP_NataliaHerrera\obj\Debug\ProjectOOP_NataliaHerrera.TemperatureConversion.resources
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\PROJECT\ProjectOOP_NataliaHerrera\ProjectOOP_NataliaHerrera\obj\Debug\ProjectOOP_NataliaHerrera.IP_Validator.resources
+C:\Users\natan\OneDrive\Documents\INTAKE2\OBJECT ORIENTED PROGRAMMING\PROJECT\ProjectOOP_NataliaHerrera\ProjectOOP_NataliaHerrera\obj\Debug\ProjectOOP_NataliaHerrera.simpleCalculator.resources
